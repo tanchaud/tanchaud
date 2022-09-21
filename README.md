@@ -1,6 +1,14 @@
 ### Hi there 👋
 
-I am a Biomedical Engineer, showcasing my data analysis skills here and tracking my projects, of course. This account contains the source code of several Machine Learning projects on data from different domains. It also contains a toolbox called ARET, which I developed in Matlab during my time in research. Other project repositories will be available as well for your access, once they have reached a certain milestone. The technical skills covered in these projects are Matlab, Python and SQL programming, with usage of libraries like Image Processing, Pnadas, Numpy, Matplotlib, Seaborn, Scikit-Learn. 
+I am a Biomedical Engineer, showcasing my data analysis skills here and tracking my projects, of course. This account contains the source code of several Machine Learning projects on data from different domains. It also contains a toolbox called ARET, which I developed in Matlab during my time in research. Other project repositories will be available as well for your access, once they have reached a certain milestone. The technical skills covered in these projects are Matlab, Python and SQL programming, with usage of libraries like Image Processing, Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn. 
+
+Here is some more information for you about me. 
+
+- I'm currently working on the Brain Age project. It analyses MRI data with Machine Learning and Deep Learning. The implementation is in Python. 
+- I'm currently learning SQL and Tableau. 
+- How to reach me: Please feel free to email me at tanchaud1990@gmail.com
+- Pronouns: She/Her
+- Fun fact: I love improv theatre.  
 
 <!--
 **tanchaud/tanchaud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
