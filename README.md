@@ -4,8 +4,6 @@ I am a Biomedical Engineer, showcasing my data analysis skills here and tracking
 
 Here is some more information for you about me. 
 
-- I'm currently working on the Brain Age project. It analyses MRI data with Machine Learning and Deep Learning. The implementation is in Python. 
-- I'm currently learning SQL and Tableau. 
 - How to reach me: Please feel free to email me at tanchaud1990@gmail.com
 - Pronouns: She/Her
 - Fun fact: I love improv theatre.  
