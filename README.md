@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Biomedical Engineer, showcasing my data analysis skills here and tracking my projects, of course. This account contains the source code of several Machine Learning projects on data from different domains. It also contains a toolbox called ARET, which I developed in Matlab during my time in research. Other project repositories will be available as well for your access, once they have reached a certain milestone. The technical skills covered in these projects are Matlab, Python and SQL programming, with usage of libraries like Image Processing, Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn. 
+I am a Biomedical Engineer, showcasing my data analysis skills here. This account contains the source code of several Machine Learning projects on data from different domains. It also contains a toolbox called ARET, which I developed using Matlab during my time in research. The technical skills covered in these projects are Matlab, Python and SQL programming, with usage of libraries like Image Processing, Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn. 
 
 Here is some more information for you about me. 
 
